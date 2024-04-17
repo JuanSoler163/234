@@ -1,0 +1,36 @@
+body{
+
+    font-style: italic;
+    
+    
+    
+
+}
+h1{
+    font-size: 2em;
+
+
+
+}
+.LogoWhatsapp:hover{
+
+    opacity: 0.5;
+
+}
+
+ 
+#arriba img:first-child{
+
+    margin-right: 10px;
+    margin-left: 100px;
+
+ }
+#arriba{
+
+    display: flex;
+    background-color: aquamarine;
+}
+#Presentacion{
+    
+ 
+}
